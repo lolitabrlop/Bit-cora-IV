@@ -24,6 +24,8 @@ Como nos ha dado fallo, nos dirigimos a la web de localhost:3000 y vemos como Ub
 Para completar la actividad, lo último que falta por hacer es crear un archivo .txt y averiguar si es posible su realización. Al comporbar que si puedo hacerlo, se ha completado la actividad.
 <img width="818" height="327" alt="image" src="https://github.com/user-attachments/assets/89f533f6-489b-466f-bcc1-69556965bb96" />
 
+## Reflexión
+Me ha resultado más sencillo ya que te permite tener varias pantallas a la vez con función de copiar y pegar y tener el alfitrion en el mismo terminal y desde ahí poder modificar y acceder lugares que desde otros lados no se nos permite.
 
 
 
