@@ -10,6 +10,11 @@ Para poder solucionar este problema, como el docker es muy nuevo, aún no recono
 Completado lo anterior y añadiendo los comandos correspondientes ssh-keygen -t ed25519 -C "mariadoloresbarba.25@campuscamara.es", ya se ha completado la transferencia necesaria.
 "<img width="658" height="298" alt="image" src="https://github.com/user-attachments/assets/12b983fb-a89a-4800-b424-e9e257e515bc" />
 
+
+Accedemos al sshd_config para la modificacion de las líneas, pero me salta un mensaje de error de que alumno no está dentro del administrador.
+<img width="492" height="255" alt="image" src="https://github.com/user-attachments/assets/ec78fb21-4a92-4337-8293-3d0696d673e9" />
+
+
 Para comprobar lo que hemos hehco, nos vamos al escritorio remoto de conexión y escribimos localhost:3389. Al aceptar, nos va a saltar un error de que el equipo no se ha podido conectar porque ya hay otra sesión en el equipo remoto. 
 <img width="626" height="490" alt="image" src="https://github.com/user-attachments/assets/157a215d-4ef8-49fb-8f77-538b0b61efc2" />
 
